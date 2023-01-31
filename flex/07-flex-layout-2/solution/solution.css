@@ -85,3 +85,10 @@ a {
   align-items: center;
   justify-content: center;
 }
+
+.bottom, .top{
+  display:flex;
+  justify-content: flex-start;
+  gap:50px;
+  flex: 1;
+}
